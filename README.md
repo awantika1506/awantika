@@ -1,0 +1,2 @@
+# awantika
+my first blog
